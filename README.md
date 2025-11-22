@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, Kevser Irmak
+#### Software engineering student
+Hello, I am Kevser Irmak.  
+I am a software engineering student and I am 18 years old.  
+I research information related to software and try to improve myself more every day. 
 
-<!--
-**Elviell07/Elviell07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Beginner level C++ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elviell07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_kevser_irmak/)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Elviell07)  
+
